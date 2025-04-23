@@ -1,3 +1,6 @@
+# Hecho por Anthony Nope, Andres Beltran y Santiago Bazzani
+
+
 # Taller de GitLab CI: Configuración de un Pipeline de Integración Continua
 
 Este taller te guiará paso a paso para configurar un pipeline de Integración Continua (CI) utilizando GitLab CI. Aprenderás a crear un proyecto en GitLab, agregar un archivo de configuración `.gitlab-ci.yml`, y verificar la ejecución del pipeline.
