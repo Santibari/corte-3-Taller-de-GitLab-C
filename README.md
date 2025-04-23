@@ -1,5 +1,3 @@
-# Hecho por Anthony Nope, Andres Beltran y Santiago Bazzani
-
 
 # Taller de GitLab CI: Configuración de un Pipeline de Integración Continua
 
