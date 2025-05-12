@@ -1,3 +1,6 @@
+## Hecho por: 
+- Santiago Bazzani Rincon
+- Anthony Nope
 
 # Taller de GitLab CI: Configuración de un Pipeline de Integración Continua
 
